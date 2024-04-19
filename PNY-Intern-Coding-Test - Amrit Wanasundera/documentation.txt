@@ -1,0 +1,21 @@
+Thank you for the opportunity to showcase my skills to you. 
+This wasn't very easy for me, given the time constraints (I had one day to do it) 
+and the little details to implement to make the site an exact copy 
+of the provided pictures. I'm happy with the fact that the code 
+compiles with no errors on the console and shows no errors when 
+I ran it through the HTML and CSS Validator. I tried to keep the 
+coloring the same and the general layout consistent with a few tweaks. 
+The hamburger menu is a hover-over menu because that is what I prefer 
+for efficiency and cleanliness on a site, and I decided to put it on the right, so you 
+are always able to access it when on the site, and to add symmetry to 
+the site. While this is definitely my best effort given the time for 
+the project, there are some improvements I would make. I would create 
+a background in Illustrator instead of making one in code because it 
+would look nicer and move better when changing the page size, but I 
+don't have an active subscription to Adobe and felt this would suffice.
+As the screen shrinks, the data is dynamically moving as intended, but the 
+picture does get cutoff, and I would also like to learn and then implement 
+the ability to change the hamburger menu to a full bar menu as seen in the pictures, 
+as this would aid in future projects as well. I hope that you see my potential with this 
+exercise and will choose me for the Web Developer role. I would love to 
+learn more about it and see how my skills can impact PNY in the future. Thank you!
